@@ -1,8 +1,7 @@
       ******************************************************************
-      * Author:
-      * Date:
-      * Purpose:
-      * Tectonics: cobc
+      * Author: Blaine McShea
+      * Date: 10/19/2021
+      * Purpose: This program generates a report card for students.
       ******************************************************************
        IDENTIFICATION DIVISION.
        PROGRAM-ID. A8.
